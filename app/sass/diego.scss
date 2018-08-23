@@ -1,0 +1,52 @@
+/*ANIDAMIENTO*/
+/*VARIABLES*/
+$padding: 10px;
+
+/*CSS RULES*/
+
+
+.flex {
+	display: flex;
+}
+
+.right-head {
+	justify-content: flex-end;
+	align-self: center;
+
+		span {
+			margin-left: 10px;
+		}
+}
+
+.section2 {
+	text-align: center;
+
+		p{
+			margin-bottom: 0;
+		}
+}
+
+.section3 {
+	span {
+		padding-right: 10px;
+	}
+}
+
+.left-header {
+	margin: 10px 0;
+}
+
+.article3 {
+	background: black;
+	color: white;
+}
+
+.background {
+	background-image: url("http://elmeccr.com/wp-content/uploads/2017/09/AP-ROYDARK28.jpg");
+	padding-bottom: 10px;
+}
+
+
+/*MIXINS*/
+
+
