@@ -1,0 +1,27 @@
+.HeaderTop{
+  color: black;
+}
+.Logo,.HeaderMiddle_big{
+  font-size: 50px;
+}
+.Header{
+  background-image: url(../img/backAlejandra.jpg);
+}
+.logosmall{
+  padding-top: 30px;
+}
+.HeaderMiddle{
+  display: flex;
+  align-items: center;
+  justify-content:center;
+  padding-bottom: 20px;
+}
+.headerbottom{
+  background-color: black;
+  color: white;
+}
+#cards_D{
+  img{ width: 100%;
+    padding-bottom: 15px;
+  }
+}
